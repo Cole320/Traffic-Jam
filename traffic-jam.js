@@ -1,4 +1,4 @@
-/* javascript: */
+alert(1);
 (function() {
     // Get Desired URL From User
     var rawUrl = prompt("\
