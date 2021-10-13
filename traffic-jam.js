@@ -1,5 +1,3 @@
-alert(1);
-
 function getUrl()
 {
     // Get Desired URL From User
